@@ -1,2 +1,16 @@
-# jenkins
-this lets us install jenkins easily in raspberry pi 
+### Aims: 
+Install Jenkins to raspberry pi running ubuntu server 18.04
+
+### How to:
+Assuming you have git already installed:
+```
+git clone https://github.com/vengadam2001/jenkins.git
+```
+```
+cd jenkins
+```
+```
+sudo bash jenkins
+```
+Setup complete, Jenkins is running on your server. You can connect on any device at \<ip-address>:8080
+
