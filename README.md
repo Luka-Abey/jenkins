@@ -1,5 +1,5 @@
 ### Aims: 
-Install Jenkins to raspberry pi running ubuntu server 18.04
+Install Jenkins on server running ubuntu server 18.04
 
 ### How to:
 Assuming you have git already installed:
